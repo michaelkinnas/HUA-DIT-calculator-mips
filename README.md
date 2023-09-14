@@ -1,9 +1,20 @@
-#MIPS Assembly simple calculator
-This is a simple calculator written in MIPS assembly as part of a semester assignment for the "Computer Architecture" course of Harokopio University of Athens"
+# MIPS Assembly, Simple Calculator & String Compare
 
-## Supported operations
-Addition
-Subtraction
-Multiplication
-Division
-Memory
+These programs are part of the 2nd semester assignment for the "Computer Architecture" course of Harokopio University of Athens
+
+
+## MIPS Assembly simple calculator
+
+A simple calculator that supports basic arithmetic functions as well as a memory function.
+
+### Supported operations
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Memory save
+- Memory recall
+
+## String compare
+
+Compare two strings similar to how strcmp() works in c.
